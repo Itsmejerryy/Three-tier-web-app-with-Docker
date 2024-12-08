@@ -1,4 +1,4 @@
-# Docker_Hub_Demo
+# Docker_Hub_Demo from youtube
 Repo for the Docker Hub [Demo Video](https://www.youtube.com/watch?v=voEiMbX1cuQ).
 
 # I encountered errors as I use windows OS so I modify the original ordering of commands as well as app-server Dockerfile due to fix the errors.
