@@ -1,8 +1,27 @@
-# Docker_Hub_Demo from youtube
-Repo for the Docker Hub [Demo Video](https://www.youtube.com/watch?v=voEiMbX1cuQ).
+# THIS IS THE SECOND PART
+### The second part of this project is available [@Gitlab](https://www.youtube.com/watch?v=voEiMbX1cuQ). I leveraged gitlab's CICD pipeline to deploy the containerized microservices to a remote server automatically. I chose the more extended method by using the Dockerfile to better understand the processes. 
 
-# I encountered errors as I use windows OS so I modify the original ordering of commands as well as app-server Dockerfile due to fix the errors.
+## Results:
 
+build images and store them in the GitLab container registry
+![image](https://github.com/user-attachments/assets/b3084989-b4c3-4efe-9fb0-ec2c87f1bf34)
+
+Successful execution of the jobs
+![image](https://github.com/user-attachments/assets/ddb85cdc-c7d3-4fce-a2a5-4abc39a6973a)
+
+mongo express
+![image](https://github.com/user-attachments/assets/9f9e312e-943d-40b8-a167-4d6d8fda2016)
+
+app server
+<br>![image](https://github.com/user-attachments/assets/f3b4d778-0105-4248-b5a4-7cf203781d1e)
+
+web server
+<br>![image](https://github.com/user-attachments/assets/95a388a4-214c-477c-9016-280f72a8bef9)
+
+
+-------------------------------------------------------------------------------------------------------------
+
+# THIS IS THE FIRST PART
 ## Commands
 - Note: USERNAME and PASSWORD hard-coded for Demo Purposes!
 
