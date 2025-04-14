@@ -1,5 +1,5 @@
 # THIS IS THE SECOND PART
-### The second part of this project is available [@Gitlab](https://www.youtube.com/watch?v=voEiMbX1cuQ). I leveraged gitlab's CICD pipeline to deploy the containerized microservices to a remote server automatically. I chose the more extended method by using the Dockerfile to better understand the processes. 
+### I leveraged gitlab's CICD pipeline to deploy the containerized microservices to a remote server automatically. I chose the more extended method by using the Dockerfile to better understand the processes. 
 
 ## Results:
 
